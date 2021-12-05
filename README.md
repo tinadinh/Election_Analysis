@@ -28,9 +28,9 @@ The analysis of the election show that:
     - Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes. 
  
 ## Challenge Overview 
-### Overview of Election Audit: The purpose of this election audit analysis:
-The purpose of this project is to find out which county is the largest based off of votes. In module 3 we learned how to read csv files in python and begin to run the data with our coding skills. The data file has 4 columns, we had to search through the one that had all of the candidates and figure out how many votes each candidate recieved. Once we figure out the total votes and percentage of the total that they had we wrote the results to a text file with a winner. In the module 3 challenge we are doing something similar but different. This time we will search through the counties column to figure out the total votes and percentage of each county to find which county is the largest.
-### Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+### Overview of Election Audit: 
+The purpose of this election audit analysis is to find out which county is the largest based off of votes. In module 3 we learned how to read csv files in python and begin to run the data with our coding skills. The data file has 4 columns, we had to search through the one that had all of the candidates and figure out how many votes each candidate recieved. Once we figure out the total votes and percentage of the total that they had we wrote the results to a text file with a winner. In the module 3 challenge we are doing something similar but different. This time we will search through the counties column to figure out the total votes and percentage of each county to find which county is the largest.
+### Election-Audit Results: 
 - A total votes were cast in this congressional election:
     - 369,711 votes 
 - The number of votes and the percentage of total votes for each county in the precinct:
