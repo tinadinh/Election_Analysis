@@ -45,7 +45,9 @@ The purpose of this project is to find out which county is the largest based off
     - Raymon Anthony Doane(11,606/3.1%) 
 - The candidate that won the election:
     - Diana DeGette won the election recieving 272,892 total votes which was 73.8% of the total votes submitted.
-![election_analysis](https://user-images.githubusercontent.com/33900637/144755423-aafad1d4-a9ba-470a-86ac-b84232896123.png)
+
+![election_analysis](https://user-images.githubusercontent.com/33900637/144755471-11215fb1-c909-4f9b-9bfb-b4db90f29325.png)
+
 ## Challenge Summary 
 ### Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 Seeing how our script is able to effectively find votes counts, percentage of votes won by each county and candidate it is safe to assume that we can even figure out what the percentages of each county voted for each candidate. We can do something like this by adding another if statement to under line 76 that will give us a breakdown showing what counties voted for who. This can be used for any future election because it gives us a great breakdown of counties or even states if the data was different.
